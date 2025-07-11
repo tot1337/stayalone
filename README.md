@@ -55,7 +55,7 @@ The tool suspends the `GTA5.exe` process for 10 seconds, causing other players t
 
 ## 📦 Download
 
-> 👉 [Releases Page](https://github.com/yourusername/stayalone/releases)
+> 👉 [Releases Page](https://github.com/tot1337/stayalone/releases)
 
 You can always grab the latest version from the Releases tab.
 
